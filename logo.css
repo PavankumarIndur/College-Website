@@ -1,0 +1,12 @@
+.college-logo {
+    width: 300px; /* New width */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Optional: if you want it to be block level */
+    margin: 0 auto; /* Center the logo */
+    padding: 10px; /* Optional: Add some padding if needed */
+}
+
+/* Other existing styles */
+
+
+

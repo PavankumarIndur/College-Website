@@ -1,0 +1,17 @@
+.profile {
+    text-align: center; /* Centers text and inline elements */
+    margin-bottom: 20px; /* Adds space between profiles */
+}
+
+.profile img {
+    display: block; /* Makes the image a block element */
+    margin: 0 auto; /* Centers the image horizontally */
+}
+
+.profile-link {
+    display: inline-block; /* Keeps the link inline but allows for block-level properties */
+}
+
+.pro-links {
+    margin-top: 10px; /* Adds space between profile content and social links */
+}

@@ -1,0 +1,22 @@
+.faculty-container {
+    display: flex;
+    gap: 20px; /* Adjust the gap between items as needed */
+    align-items: center; /* Align items vertically in the center */
+    justify-content: space-between; /* Distribute items evenly */
+}
+
+.tutor {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between the image and text */
+}
+
+.tutor img {
+    width: 100px; /* Adjust image size */
+    height: auto;
+    border-radius: 50%; /* Make the image circular, optional */
+}
+
+.tutor-det {
+    text-align: center;
+}
